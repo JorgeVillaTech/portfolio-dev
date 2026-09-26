@@ -15,7 +15,7 @@ import { siteConfig } from "@/backend/data/site";
 
 const NAV_LINKS = [
   { href: "#projects", label: "Projects" },
-  { href: "#experience", label: "Experience" },
+  { href: "#skills", label: "Skills" },
   { href: "#contact", label: "Contact" },
 ];
 

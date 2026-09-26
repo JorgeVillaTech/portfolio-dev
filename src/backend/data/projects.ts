@@ -4,7 +4,7 @@ export type Project = {
   category: string;
   description: string;
   tech: string[];
-  /** URL to the instance running on a local server (adjust the port per project). */
+  /** URL to the live deployed instance of the project. */
   localUrl: string;
   /** URL to the project's GitHub repository. */
   githubUrl: string;
@@ -18,9 +18,9 @@ export const projects: Project[] = [
     category: "Full Stack · CRUD",
     description:
       "CRUD system for managing and reserving electric vehicle chargers, with real-time availability tracking and an admin dashboard.",
-    tech: ["React", "FastAPI", "Python", "SQL"],
-    localUrl: "http://localhost:3001",
-    githubUrl: "https://github.com/your-username/ev-chargers-reservations",
+    tech: ["React", "Express", "Node.js", "SQLite"],
+    localUrl: "https://ev-charger-system-steel.vercel.app",
+    githubUrl: "https://github.com/JorgeVillaTech/ev-charger-system",
     featured: true,
   },
   {
@@ -30,8 +30,8 @@ export const projects: Project[] = [
     description:
       "AI agent for financial risk management and advisory: analyzes data, generates recommendations, and converses with the user through an LLM-based assistant.",
     tech: ["Next.js", "Python", "OpenAI", "Microsoft Agent Framework"],
-    localUrl: "http://localhost:3002",
-    githubUrl: "https://github.com/your-username/ai-financial-risk-agent",
+    localUrl: "https://ai-management-evaluation-agent-5n3c.vercel.app",
+    githubUrl: "https://github.com/JorgeVillaTech/AI-management-evaluation-agent",
     featured: true,
   },
 ];

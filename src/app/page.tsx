@@ -2,7 +2,7 @@ import { SiteHeader } from "@/frontend/components/layout/site-header";
 import { SiteFooter } from "@/frontend/components/layout/site-footer";
 import { HeroSection } from "@/frontend/components/sections/hero-section";
 import { ProjectsSection } from "@/frontend/components/sections/projects-section";
-import { ExperienceSection } from "@/frontend/components/sections/experience-section";
+import { SkillsSection } from "@/frontend/components/sections/skills-section";
 import { ContactSection } from "@/frontend/components/sections/contact-section";
 
 export default function Home() {
@@ -12,7 +12,7 @@ export default function Home() {
       <main className="flex-1">
         <HeroSection />
         <ProjectsSection />
-        <ExperienceSection />
+        <SkillsSection />
         <ContactSection />
       </main>
       <SiteFooter />
