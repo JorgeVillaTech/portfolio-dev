@@ -29,8 +29,7 @@ _I build AI-powered full stack applications: clean interfaces, robust backends, 
   - [⚡ EV Chargers Reservations](#-ev-chargers-reservations)
   - [🤖 AI Financial Risk Agent](#-ai-financial-risk-agent)
 - [🧠 Skills](#-skills)
-- [📊 Quick Stats](#-quick-stats)
-- [🛠️ Tech Stack of This Website](#️-tech-stack-of-this-website)
+- [�️ Tech Stack of This Website](#️-tech-stack-of-this-website)
 - [📁 Project Structure](#-project-structure)
 - [⚡ Getting Started](#-getting-started)
   - [✅ Requirements](#-requirements)
@@ -133,18 +132,6 @@ An **AI assistant that helps with financial risk management**. It analyzes finan
 </td>
 </tr>
 </table>
-
----
-
-## 📊 Quick Stats
-
-<div align="center">
-
-| 🏆 Projects completed | 🧱 Stacks mastered | 🤖 AI agents built |
-| :---: | :---: | :---: |
-| **10+** | **5+** | **2+** |
-
-</div>
 
 ---
 
